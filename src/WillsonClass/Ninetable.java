@@ -1,4 +1,4 @@
-package WellsonClass;
+package WillsonClass;
 
 /*
 編寫一個名為“ninetable()”的函數，它打印出九九乘法表的內容。
